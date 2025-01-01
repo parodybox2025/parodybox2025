@@ -2,6 +2,8 @@
 
 Prepare for a musical experience that's as hilarious as it is creative with **Sprunki**’s "parodybox" theme. This isn't just your ordinary beatmaking game; it's a comedy show where you're the director, using silly sounds to create laugh-out-loud tracks. If you’re a fan of the user-friendly and creative music platform that **Incredibox** provides, then **Sprunki** "parodybox" is a similarly engaging yet humorously unique experience. This is your chance to get **sprunked** in the most comical way possible.
 
+![Sprunki Parodybox](https://github.com/user-attachments/assets/8ebba63b-44a6-4ca0-b8e7-677805acbfce)
+
 ## What is Sprunki Parodybox?
 
 **Sprunki** "parodybox" takes the core gameplay of **Sprunki** and injects it with a heavy dose of humor. Instead of standard musical sounds, players are now given a collection of comical noises, including goofy vocals, cartoonish sound effects, and other absurd audio clips. Players still drag and drop these sounds onto animated characters to create music, but the resulting tracks are more likely to induce laughter than serious head-nodding. This version of **Sprunki** retains the ease of use of the original game but brings a brand new world of ridiculous sounds to the table. It transforms the simple music production tool into a playground of silly sound creation, and it is a fantastic way to get **sprunked**. For further exploration into the world of comical sound design, you can check out resources like https://parodybox.me.
@@ -16,7 +18,7 @@ The "parodybox" edition of **Sprunki**, just like the original, is accessible on
 
 ## Where Can You Play Sprunki Parodybox?
 
-You can play **Sprunki** "parodybox" directly in your web browser, making it accessible from a wide variety of devices. The game is usually hosted on the platforms where the community shares it, ensuring easy and seamless access. If you have a web browser, you can get ready to laugh and make funny music, no matter where you are located.
+You can [play **Sprunki** parodybox](https://parodybox.me) directly in your web browser, making it accessible from a wide variety of devices. The game is usually hosted on the platforms where the community shares it, ensuring easy and seamless access. If you have a web browser, you can get ready to laugh and make funny music, no matter where you are located.
 
 ## Why Play Sprunki Parodybox?
 
